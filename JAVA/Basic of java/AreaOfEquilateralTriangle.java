@@ -5,9 +5,9 @@ public class AreaOfEquilateralTriangle {
     public static double getArea(double a){
 
               
-        double A=1.73205080757*a*a/4;
+        double B=1.73205080757*a*a/4;
 
-        return A;
+        return B;
 
 
     }
